@@ -1,6 +1,6 @@
 <litepal>
     <dbname value="jack_weather"/>
-    <v5ersion value="1"/>
+    <version value="1"/>
     <list>
         <mapping class="com.example.lijie.jackweather.db.Province"/>
         <mapping class="com.example.lijie.jackweather.db.City"/>
